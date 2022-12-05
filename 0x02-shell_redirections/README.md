@@ -1,1 +1,1 @@
-00xshell2
+hello_world_script
