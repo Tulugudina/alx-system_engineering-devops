@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($TRUEKNLEDGE+128))
+echo $(($TRUEKNLEDGE + 128))
